@@ -1,5 +1,5 @@
-import _classCallCheck from "D:/project/ui-components/node_modules/@babel/runtime/helpers/esm/classCallCheck";
-import _createClass from "D:/project/ui-components/node_modules/@babel/runtime/helpers/esm/createClass";
+import _classCallCheck from "D:/project/ui/node_modules/@babel/runtime/helpers/esm/classCallCheck";
+import _createClass from "D:/project/ui/node_modules/@babel/runtime/helpers/esm/createClass";
 import "core-js/modules/es.regexp.exec.js";
 import "core-js/modules/es.string.replace.js";
 import "core-js/modules/es.array.slice.js";
